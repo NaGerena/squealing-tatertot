@@ -1,2 +1,3 @@
 # squealing-tatertot
-for 10 minites exercise.
+For 10 minites exercise.
+Nothing. Just for creating a issue.
